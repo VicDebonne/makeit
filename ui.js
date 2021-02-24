@@ -5,7 +5,7 @@ const { useInput, useApp, Text, Box } = require("ink");
 // const Gradient = require("ink-gradient");
 const CFonts = require('cfonts');
 
-CFonts.say('Snake Deluxe', {
+CFonts.say('Frog Deluxe!', {
 	font: 'block',
 	align: 'center',
 	colors: ['red'],
