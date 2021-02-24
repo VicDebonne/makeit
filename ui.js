@@ -54,7 +54,7 @@ const App = () => {
 			</Gradient> */}
             <Text>Use arrow keys to move the icon. Press "q" to exit.</Text>
             <Box height={12} paddingLeft={x} paddingTop={y}>
-                <Text>😁</Text>
+                <Text>🐸</Text>
             </Box>
         </Box>
     );
