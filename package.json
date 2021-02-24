@@ -1,9 +1,9 @@
 {
-	"name": "my-ink-cli",
+	"name": "makeit",
 	"version": "0.0.0",
 	"license": "MIT",
 	"bin": {
-		"my-ink-cli": "cli.js"
+		"makeit": "cli.js"
 	},
 	"engines": {
 		"node": ">=10"

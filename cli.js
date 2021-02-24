@@ -9,13 +9,13 @@ const ui = importJsx('./ui');
 
 const cli = meow(`
 	Usage
-	  $ my-ink-cli
+	  $ makeit
 
 	Options
 		--name  Your name
 
 	Examples
-	  $ my-ink-cli --name=Jane
+	  $ makeit --name=Jane
 	  Hello, Jane
 `);
 
